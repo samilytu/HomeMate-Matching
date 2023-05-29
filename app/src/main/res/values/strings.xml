@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homemate Matching</string>
+    <string name="login">Giriş Yap</string>
+    <string name="signup">Kayıt Ol</string>
+    <string name="send_verification_email">Doğrulama Kodu Gönder</string>
+    <string name="title_students">Öğrenciler</string>
+    <string name="title_edit_profile">Profili Düzenle</string>
+    <string name="title_map">Harita</string>
+    <string name="title_select_location">Konum Seç\n</string>
+    <string name="title_match_requests">Eşleşme Talepleri</string>
+    <!-- default notification channel -->
+    <string name="default_notification_channel_id">default_channel</string>
+    <string name="default_notification_channel_name">Genel bildirimler</string>
+</resources>

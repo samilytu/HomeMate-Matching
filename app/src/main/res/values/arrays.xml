@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="distance_to_university_initial_slider_values">
+        <item>0.0</item>
+        <item>10.0</item>
+    </array>
+    <array name="time_available_initial_slider_values">
+        <item>1.0</item>
+        <item>24.0</item>
+    </array>
+</resources>

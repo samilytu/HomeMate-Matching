@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488798884610",
+    "project_id": "homemate-matching-24b13",
+    "storage_bucket": "homemate-matching-24b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488798884610:android:276a2c20c0a19f77b8a81b",
+        "android_client_info": {
+          "package_name": "com.samilozturk.homemate_matching"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdGPOfqMS-bKja1bngGT1s2HO3kuFTQHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
